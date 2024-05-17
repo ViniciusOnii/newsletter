@@ -1,0 +1,2 @@
+# newsletter
+Usando o tailwindCss
